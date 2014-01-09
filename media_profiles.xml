@@ -334,7 +334,7 @@
                     channels="2" />
 
          </EncoderProfile>
-
+-->
         <EncoderProfile quality="720p" fileFormat="mp4" duration="60">
             <Video codec="h264"
                    bitRate="10000000"
@@ -348,7 +348,7 @@
                    channels="2" />
 
         </EncoderProfile>
--->
+
         <EncoderProfile quality="480p" fileFormat="mp4" duration="30">
              <Video codec="m4v"
                     bitRate="6000000"
